@@ -23,3 +23,19 @@
 
 
 ### OOPS:
+
+> ** Classes & Objects: **
+- Class is a blueprint or prototype for creating objects. It defines the attribute and methods.
+- Objects are the instances in the class. It holds the value of the attribute.
+
+> ** Encapsulation: **
+- Encapsulation is the binding of the data and the method.
+
+> ** Inheritance: **
+- Inheritance allows the child class to inherit its parent class property. This helps in reusability of the code and makes the code looks simple and clear.
+
+> ** Polymorphism: **
+- It helps to reuse the method in different class. So it allows to use the same method for different object type.
+
+> ** Abstraction: **
+- Abstraction involves in hiding the complex details of the object and letting to know only the needed information. Here Private and Public keys are used for this abstraction. 
